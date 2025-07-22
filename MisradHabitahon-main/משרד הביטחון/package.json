@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongoose": "^8.16.4",
+    "react-dom": "^19.1.0"
+  }
+}
